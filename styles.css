@@ -1,0 +1,44 @@
+* {
+    display: block;
+}
+
+.heading {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    border: 2px;
+    margin: 5px;
+}
+
+.button {
+    background-color: red;
+    color: blue;
+    padding: 5px;
+    margin: 5px;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    border: 2px;
+    margin: 5px;
+}
+
+h3 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    border: 2px;
+    margin: 5px;
+}
+
+div {
+    display: block;
+    background-color: rgba(255, 0, 0, 0.2);
+    border: 2px solid;
+    border-color: red;
+}
